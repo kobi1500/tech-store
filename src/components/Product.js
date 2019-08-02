@@ -58,7 +58,7 @@ const ProductWrapper = styled.div`
   }
   .card:hover {
     transform: scale(1.15);
-    opacity: 0.2;
+    opacity: 1;
   }
   .img-container {
     position: relative;
